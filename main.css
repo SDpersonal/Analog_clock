@@ -31,6 +31,8 @@ body {
     justify-content: center;
     align-items: center;
     padding: 5%;
+    border-radius: 10px;
+    box-shadow: 0px 1px 15px 11px rgb(32 32 32 / 90%), inset 0px 0px 6px 4px #888888;
 }
 .clock {
     height: 22em;
