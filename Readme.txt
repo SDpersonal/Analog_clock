@@ -1,5 +1,12 @@
- [
-       Rotation calculation
+##Technologies Used
+
+-> Html
+
+-> Css
+
+-> Js
+
+## How to Rotation calculation work in this project
 
       For hours
          12 hours = 360 deg
@@ -16,4 +23,3 @@
         1 sec = 360/60 = 6
         sRotation = 6s
           
-    ]
